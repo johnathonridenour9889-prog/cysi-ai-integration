@@ -1,0 +1,13 @@
+{
+  "repository": "cysi-ai-integration",
+  "files_scanned": 57,
+  "secret_findings": [],
+  "result": "PASS",
+  "excluded": [
+    ".next/",
+    "node_modules/",
+    "out/",
+    "build/",
+    "dist/"
+  ]
+}

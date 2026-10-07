@@ -1,0 +1,37 @@
+# Dependencies / generated output
+node_modules/
+.next/
+out/
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.p12
+*.crt
+*.cer
+*cysi-private*
+*discord-webhook*
+*cloudflare-email-token*
+*password*
+*credential*
+*secret*
+*token.txt
+
+# Logs / private data
+*.log
+logs/
+submissions/
+leads/
+private/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
